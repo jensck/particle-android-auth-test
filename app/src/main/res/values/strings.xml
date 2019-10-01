@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Particle Auth Test</string>
+    <string name="oauth_client_id">CHANGEME</string>
+    <string name="oauth_client_secret">CHANGEME</string>
+    <string name="http_log_level">FULL</string>
+</resources>
